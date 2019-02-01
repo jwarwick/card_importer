@@ -6,7 +6,7 @@ Each entry in the CSV file will generate a new Github Issue in the specified rep
 # Usage
 ```
 % go build cmd
-% ./import -token "github ouath token" -repo "user/repo" new-cards.csv
+% ./import -token "Github OAuth Token" -repo "user/repo" new-cards.csv
 ```
 
 # CSV Format
